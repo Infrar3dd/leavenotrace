@@ -1,2 +1,2 @@
 # leavenotrace
-(./logo.png)
+![Логотип проекта](./logo.jpg)
