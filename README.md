@@ -1,12 +1,10 @@
-<p align="center">
-  <span style="color: green">
+<span style="color: green">
                                                                            <br>
 ██     ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄ ███  ██  ▄▄▄ ██████ ▄▄▄▄   ▄▄▄   ▄▄▄▄ ▄▄▄▄▄ <br>
 ██     ██▄▄  ██▀██ ██▄██ ██▄▄  ██ ▀▄██ ██▀██  ██   ██▄█▄ ██▀██ ██▀▀▀ ██▄▄  <br>
 ██████ ██▄▄▄ ██▀██  ▀█▀  ██▄▄▄ ██   ██ ▀███▀  ██   ██ ██ ██▀██ ▀████ ██▄▄▄ <br>
                                                                by infrar3d <br>
-  </span>
-</p>
+</span>
 
 You can easily delete logs and history in your penetration testing
 
