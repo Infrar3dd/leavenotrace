@@ -1,1 +1,2 @@
 # leavenotrace
+(./images/logo.png)
