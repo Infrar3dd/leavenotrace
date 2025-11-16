@@ -15,7 +15,7 @@ Options:
   leavenotrace.sh -u admin -u user1 -t 60 (It will clear logs from admin, user1 and this user)
 ```
 
-<span style="color:yellow; font-weight: bold; "> [!] </span> Disclaimer 
+### ⚠️ Disclaimer ⚠️
 
 This software and proof-of-concept code is provided **for educational and research purposes only**. 
 
@@ -24,3 +24,4 @@ This software and proof-of-concept code is provided **for educational and resear
 *   Use of this tools for attacking targets without consent is **illegal**.
 
 You are responsible for obeying all applicable laws. **Use ethically and responsibly.**
+
