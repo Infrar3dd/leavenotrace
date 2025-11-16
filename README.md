@@ -1,2 +1,3 @@
-# leavenotrace
-<img src="./logo.png" width="200" height="200">
+<div align="center">
+  <img src="./logo.png" width="500" height="500">
+</div>
