@@ -1,17 +1,10 @@
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="20" font-family="monospace" font-size="12" fill="#00ff00">
-██     ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄ ███  ██  ▄▄▄ ██████ ▄▄▄▄   ▄▄▄   ▄▄▄▄ ▄▄▄▄▄
-  </text>
-  <text x="10" y="40" font-family="monospace" font-size="12" fill="#00ff00">
-██     ██▄▄  ██▀██ ██▄██ ██▄▄  ██ ▀▄██ ██▀██  ██   ██▄█▄ ██▀██ ██▀▀▀ ██▄▄
-  </text>
-  <text x="10" y="60" font-family="monospace" font-size="12" fill="#00ff00">
-██████ ██▄▄▄ ██▀██  ▀█▀  ██▄▄▄ ██   ██ ▀███▀  ██   ██ ██ ██▀██ ▀████ ██▄▄▄
-  </text>
-  <text x="10" y="80" font-family="monospace" font-size="12" fill="#00ff00">
+<pre>
+                                                                           
+██     ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄ ███  ██  ▄▄▄ ██████ ▄▄▄▄   ▄▄▄   ▄▄▄▄ ▄▄▄▄▄ 
+██     ██▄▄  ██▀██ ██▄██ ██▄▄  ██ ▀▄██ ██▀██  ██   ██▄█▄ ██▀██ ██▀▀▀ ██▄▄  
+██████ ██▄▄▄ ██▀██  ▀█▀  ██▄▄▄ ██   ██ ▀███▀  ██   ██ ██ ██▀██ ▀████ ██▄▄▄ 
                                                                by infrar3d
-  </text>
-</svg>
+</pre>
 
 You can easily delete logs and history in your penetration testing
 
