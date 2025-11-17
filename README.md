@@ -1,10 +1,4 @@
-```
-                                                                           
-██     ▄▄▄▄▄  ▄▄▄  ▄▄ ▄▄ ▄▄▄▄▄ ███  ██  ▄▄▄ ██████ ▄▄▄▄   ▄▄▄   ▄▄▄▄ ▄▄▄▄▄ 
-██     ██▄▄  ██▀██ ██▄██ ██▄▄  ██ ▀▄██ ██▀██  ██   ██▄█▄ ██▀██ ██▀▀▀ ██▄▄  
-██████ ██▄▄▄ ██▀██  ▀█▀  ██▄▄▄ ██   ██ ▀███▀  ██   ██ ██ ██▀██ ▀████ ██▄▄▄ 
-                                                               by infrar3d
-```
+<img src=logo.png width=500> 
                                                                
 You can easily delete logs and history in your penetration testing
 
