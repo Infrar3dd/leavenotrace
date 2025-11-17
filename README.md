@@ -1,4 +1,4 @@
-<img src=logo.png width=800> 
+<img src=logo.png width=900> 
                                                                
 You can easily delete logs and history in your penetration testing
 
