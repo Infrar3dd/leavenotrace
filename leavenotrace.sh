@@ -287,11 +287,6 @@ else
     sync
     
     # selfdestruction
-    echo "[*] Self-destructing..."
-    shred -u -z -n 5 "$0" 2>/dev/null || {
-        dd if=/dev/urandom of="$0" bs=1K count=10 2>/dev/null
-        rm -f "$0" 2>/dev/null
-    }
     
     echo -e "\033[0;32m[✓] Advanced clearing completed\033[0m"
     echo -e "\033[0;33m[!] Note: Some traces may still exist in memory or remote logging systems\033[0m"
