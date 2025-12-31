@@ -77,7 +77,7 @@ clean_logs() {
     
     # systemd journals
     echo "[*] Cleaning systemd journals..."
-    journalctl --vacuum-time=1s 2>/dev/null
+    journalctl --vacuum-time=1s --quiet 2>/dev/null
     journalctl --rotate 2>/dev/null
     find /var/log/journal -type f -name "*.journal" -exec shred -u -z -n 2 {} \; 2>/dev/null
     
@@ -285,8 +285,6 @@ else
     
     # final sync
     sync
-    
-    # selfdestruction
     
     echo -e "\033[0;32m[✓] Advanced clearing completed\033[0m"
     echo -e "\033[0;33m[!] Note: Some traces may still exist in memory or remote logging systems\033[0m"
