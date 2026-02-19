@@ -1,5 +1,7 @@
 <img src=logo.png width=900> 
-                                                               
+
+# LeaveNoTrace
+
 You can easily delete logs and history in your penetration testing
 
 Usage:
