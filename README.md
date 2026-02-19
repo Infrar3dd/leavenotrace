@@ -1,6 +1,4 @@
 <img src=logo.png width=900> 
-
-## Beta version
                                                                
 You can easily delete logs and history in your penetration testing
 
