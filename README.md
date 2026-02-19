@@ -15,6 +15,8 @@ Options:
   leavenotrace.sh -u admin -u user1 -t 60 (It will clear logs from admin, user1 and this user)
 ```
 
+At first you need to root the machine and then you can clear traces after that
+
 ### ⚠️ Disclaimer ⚠️
 
 This software and proof-of-concept code is provided **for educational and research purposes only**. 
