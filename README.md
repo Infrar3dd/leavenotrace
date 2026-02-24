@@ -2,6 +2,8 @@
 
 # LeaveNoTrace
 
+By [infrar3d](https://github.com/Infrar3dd)
+
 You can easily delete logs and history in your penetration testing
 
 Usage:
